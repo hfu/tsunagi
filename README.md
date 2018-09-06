@@ -1,2 +1,11 @@
 # tsunagi
-(reserved) the next of kaeshi
+(reserved) the next of [kaeshi](https://github.com/hfu/kaeshi). 
+
+
+## Background
+
+
+## Install
+
+
+## Usage
