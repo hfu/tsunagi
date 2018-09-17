@@ -1,5 +1,5 @@
 # tsunagi
-(reserved) the next of [kaeshi](https://github.com/hfu/kaeshi). 
+A simplest possible ArcGIS Server Web Service for OSS-based vector tiles.
 
 ## Background
 I need to provide ArcGIS Server Web Service interface for OSS-based vector tiles.
@@ -17,6 +17,7 @@ $ mkdir config
 $ vi config/default.json
 $ node index.js
 ```
+
 ## config/default.hjson
 ```
 {
@@ -31,3 +32,6 @@ $ node index.js
   mbtiles: somewhere/some.mbtiles
 }
 ```
+
+## See also
+- [kaeshi](https://github.com/hfu/kaeshi): A simplest possible ArcGIS Server Web Service as a proxy. The earlier version. tsunagi no longer proxies existing ArcGIS Server.
