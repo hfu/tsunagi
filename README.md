@@ -25,8 +25,9 @@ $ node index.js
   ca: somewhere/chain.pem
   port: 8808
   name: OpenStreetMap_v2
-  resource: resource.json
+  resource: somewhere/resource.json
   style: somewhere/style.json
+  sprite: somewhere/sprite
   mbtiles: somewhere/some.mbtiles
 }
 ```

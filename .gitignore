@@ -1,5 +1,7 @@
 config
 *.mbtiles
+*.stdout
+*.stderr
 
 # Logs
 logs
