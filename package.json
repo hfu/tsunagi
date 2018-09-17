@@ -1,0 +1,28 @@
+{
+  "name": "tsunagi",
+  "version": "1.0.0",
+  "description": "(reserved) the next of [kaeshi](https://github.com/hfu/kaeshi).",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hfu/tsunagi.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "Unlicense",
+  "bugs": {
+    "url": "https://github.com/hfu/tsunagi/issues"
+  },
+  "homepage": "https://github.com/hfu/tsunagi#readme",
+  "dependencies": {
+    "@mapbox/mbtiles": "^0.10.0",
+    "config": "^2.0.1",
+    "cors": "^2.8.4",
+    "express": "^4.16.3",
+    "hjson": "^3.1.1",
+    "spdy": "^3.4.7"
+  }
+}

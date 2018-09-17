@@ -1,7 +1,0 @@
-{
-  "currentVersion": 10.61,
-  "capabilities": "TilesOnly,Tilemap",
-  "type": "vector",
-  "defaultStyles": "resources/styles",
-  "tiles": ["tile/{z}/{y}/{x}.pbf"]
-}
