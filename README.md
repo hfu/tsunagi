@@ -24,6 +24,7 @@ $ node index.js
   cert: somewhere/fullchain.pem
   ca: somewhere/chain.pem
   port: 8808
+  resource: resource.json
   style: somewhere/style.json
   mbtiles: somewhere/some.mbtiles
 }
